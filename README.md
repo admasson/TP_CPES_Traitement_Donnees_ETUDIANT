@@ -27,3 +27,5 @@ $ jupyter lab
 ou
 
 $ jupyter lab TP_Traintement_Donnees.ipynb
+
+Une version HTML est aussi disponible afin de pouvoir consulter le notebook sans jupyter lab. Il suffit d'ouvrir la version html avec un navigateur.
