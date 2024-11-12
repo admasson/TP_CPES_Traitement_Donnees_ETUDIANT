@@ -1,0 +1,25 @@
+#BEGIN
+# name CH4
+# System WAVE
+# Unit nm
+# StdOfRest Source
+# SourceVRF Topocentric
+# SourceVel 0.0
+#END
+
+# from P. Baudoz (various source)
+
+486.0 CH4
+509.0 CH4
+543.0 CH4
+576.0 CH4
+597.0 CH4
+619.0 CH4
+666.0 CH4
+702.0 CH4
+725.0 CH4
+785.0 CH4
+790.0 CH4
+841.0 CH4
+867.0 CH4
+889.0 CH4

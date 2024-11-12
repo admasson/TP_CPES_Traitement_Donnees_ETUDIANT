@@ -1,0 +1,14 @@
+#BEGIN
+# name NH3
+# System WAVE
+# Unit nm
+# StdOfRest Source
+# SourceVRF Topocentric
+# SourceVel 0.0
+#END
+
+# from P. Baudoz (various source)
+
+552.0 NH3
+647.5 NH3
+791.9 NH3

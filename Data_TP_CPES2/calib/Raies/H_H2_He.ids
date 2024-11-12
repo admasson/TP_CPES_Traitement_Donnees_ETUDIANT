@@ -1,0 +1,20 @@
+#BEGIN
+# name H,H2,He
+# System WAVE
+# Unit Angstrom
+# StdOfRest Source
+# SourceVRF Topocentric
+# SourceVel 0.0
+#END
+
+* by P. Baudoz
+3798.976 H_theta
+3836.47  H_eta
+3889.0   HeI
+4102.89  H_delta
+4341.68  H_gamma
+4861.3300 H_beta
+6435.00	 H2
+6564.61  H_alpha
+8270.00  H2
+
